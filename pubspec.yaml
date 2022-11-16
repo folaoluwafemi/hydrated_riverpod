@@ -8,7 +8,7 @@ homepage: https://github.com/hydrz/hydrated_riverpod
 documentation: https://github.com/hydrz/hydrated_riverpod
 
 environment:
-  sdk: ">=2.16.0 <3.0.0"
+  sdk: ">=2.17.6 <3.0.5"
 
 dependencies:
   flutter:
