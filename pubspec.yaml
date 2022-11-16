@@ -13,11 +13,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hive: ^2.1.0
-  json_serializable: ^6.1.6
-  meta: ^1.7.0
-  riverpod: ^1.0.3
-  synchronized: ^3.0.0+2
+  hive: ^2.2.3
+  json_serializable: ^6.5.4
+  meta: ^1.8.0
+  riverpod: ^2.0.2
+  synchronized: ^3.0.0+3
 
 dev_dependencies:
   crypto: ^3.0.1
